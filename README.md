@@ -1,0 +1,2 @@
+# myFaceRecProject
+opencv-python
